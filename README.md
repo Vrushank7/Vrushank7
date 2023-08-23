@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vrushank rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrushank rao" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vrushank-rao-21b04b286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrushank rao" height="30" width="40" /></a>
 <a href="https://instagram.com/vrushank_rao_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vrushank_rao_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vrushank rao (@vrushankrao1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vrushank rao (@vrushankrao1)" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vrushankrao1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vrushank rao (@vrushankrao1)" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vrushank_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vrushank_" height="30" width="40" /></a>
 </p>
 
