@@ -1,9 +1,10 @@
-![logo](https://github.com/Vrushank7/Vrushank7/blob/main/VRUSHANK%20RAO.png)
+<div align="center"><img src="https://github.com/Vrushank7/Vrushank7/blob/main/VRUSHANK%20RAO.png"></div>
 <h1 align="center">Hi 👋, I'm Vrushank Rao</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-- 🔭 I’m **currently Studying Computer Science**
 
+- 🔭 I’m **currently Studying Computer Science**
+  
 - 🌱 I’m currently learning **React,Node js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vrushank7](https://github.com/Vrushank7)
