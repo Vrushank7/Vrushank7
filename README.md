@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Studying **Computer Science**
   
-- 🌱 I’m currently learning **React,Node js**
+- 🌱 I’m currently learning **Artificial intelligence,Cloud computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vrushank7](https://github.com/Vrushank7)
 
